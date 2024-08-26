@@ -1,5 +1,6 @@
-# Hey! I'm voyTeX
-My name is Vojtěch Lukáš and I like coffee. Currently I am also a student of Communications and Informatics at Brno University of Technology, senior audio engineer at Janacek Academy of Performing Arts, musician playing in a folk band, amateur tinkerer and a passionate roadbiker. 
+My name is Vojtěch Lukáš, currently I am Software Engineer 1 at Honeywell Aerospace. 
+
+My career so far included senior audio engineer role at Janacek Academy of Performing Arts. I am also active musician playing in a folk band, amateur tinkerer and a passionate roadbiker. 
 
 I feel comfortable using:
 - C/C++ (embedded)
@@ -7,6 +8,12 @@ I feel comfortable using:
 - TCP/IP
 - a bit of signal processing
 - LaTeX (passionately, hehe)
+
+I am learning:
+- C++ (JUCE framework)
+- Docker (Portainer)
+- Proxmox
+
 
 
 <!---
