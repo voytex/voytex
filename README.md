@@ -14,6 +14,8 @@ I am learning:
 - Docker (Portainer)
 - Proxmox
 
+Education:
+- BUT FEEC - Audio Engineering (B.Sc.) & Telecomunication and Informatics (M.Sc.)
 
 
 <!---
