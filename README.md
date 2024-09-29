@@ -1,6 +1,6 @@
 My name is Vojtěch Lukáš, currently I am Software Engineer 1 at Honeywell Aerospace. 
 
-My career so far included also a senior audio engineer role at Janacek Academy of Performing Arts. I am also active musician playing in a folk band, amateur tinkerer and a passionate road biker. 
+My career so far includes also a senior audio engineer role at Janacek Academy of Performing Arts. In addition, I am active musician playing in a folk band, amateur tinkerer and a passionate road biker. 
 
 I feel comfortable using:
 - C/C++ (embedded)
