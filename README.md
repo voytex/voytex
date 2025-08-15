@@ -1,6 +1,5 @@
-My name is Vojtěch Lukáš, currently I am Software Engineer 1 at Honeywell Aerospace. 
-
-My career so far includes also a senior audio engineer role at Janacek Academy of Performing Arts. In addition, I am active musician playing in a folk band, amateur tinkerer and a passionate road biker. 
+My name is Vojtech Lukas, currently I am embedded SW engineer in Arcsec.
+My career so far includes software engineering role at Honeywell Aerospace and also a senior audio engineering role at Janacek Academy of Performing Arts.
 
 I feel comfortable using:
 - C/C++ (embedded)
@@ -10,7 +9,6 @@ I feel comfortable using:
 - LaTeX (passionately, hehe)
 
 I am learning:
-- C++ (JUCE framework)
 - Docker (Portainer)
 - Proxmox
 
