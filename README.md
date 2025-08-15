@@ -1,4 +1,5 @@
-My name is Vojtech Lukas, currently I am embedded SW engineer in Arcsec.
+My name is Vojtech Lukas, currently I am embedded SW engineer at Arcsec.
+
 My career so far includes software engineering role at Honeywell Aerospace and also a senior audio engineering role at Janacek Academy of Performing Arts.
 
 I feel comfortable using:
